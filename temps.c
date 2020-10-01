@@ -1,3 +1,16 @@
+//==============================================
+// Name:  Navdeep Vird        
+// Student Number: 166485193
+// Email:          nvirdi2@myseneca.ca
+// Section:        NAA
+// Workshop:       2 (in-lab)
+//==============================================
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Start your code below:
+
+
 #include <stdio.h>
 #define NUMS 3   //opening the variables 
 
