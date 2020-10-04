@@ -2,8 +2,8 @@
 // Name:  Navdeep Virdi        
 // Student Number: 166485193
 // Email:          nvirdi2@myseneca.ca
-// Section:        NAA
-// Workshop:       2 (at_home)
+// Section:        NAA_home
+// Workshop:       3 (at_home)
 //==============================================
 
 #define _CRT_SECURE_NO_WARNINGS

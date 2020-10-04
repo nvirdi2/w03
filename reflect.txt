@@ -1,0 +1,21 @@
+    During this lab I have many different concepts and ways of planning the code out. 
+Using the pseudocode to first plan out what the code would do was very helpful because I was 
+able to keep track of what I was doing and if this was to happen where the loop would take me. 
+The planning ahead made it easier to keep track of how many loops there are and what all those loops
+were doing. For example, this program had atleast 3 different loops and if I did not plan it ahead of time
+I would have lost take of was the for, while, and if else loop was doing. The pseudocode made
+it easier to write where the next steps are going to be and what they one do when they are "called" for. 
+In my experience, it was hard to start the pseudocode but once i understood where everything was going to go
+and how it was going to play out, the programming section of this lab was much easier and planned out.
+    There are 3 types of interation constructs in C language which are while, do while, for. For this program, 
+I have used two types of interations which are do while, and for. The for loop was used to create groups 
+and orgranize by condition and change. The do while was used to test conditions. Do was used to test the condition and
+it would run as long as the condition is true but the while loop was used to create conditions. In other words,
+the do loop was used for a sequence of code and as long as it was true the loop would run but when the condition (NUMS>=i) 
+was applied it caused the do loop to follow the rules or else it would send an error messgae because it would be false. 
+These two interations were used to create rules and make sure the program was orgazined. The for loop created a group,
+the do loop created to have a sequence and the while made the conditions. 
+  The GGC complier was used to debug because everytime the program ended I would compile and run to see weather or not 
+the program had errors. To constantly checked during the program I kept reading it and making sure I made every that every
+variable is being used and the way it should be. Then the GCC complier was used to debug the program at the end of the whole
+lab or "project".
